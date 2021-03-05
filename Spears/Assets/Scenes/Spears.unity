@@ -917,27 +917,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 1185544810}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c2fadf230d1919748a9aa21d40f74619, type: 3}
+  m_Script: {fileID: 11500000, guid: 5a2a9c34df4095f47b9ca8f975175f5b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_Device: 0
+  m_PoseSource: 2
+  m_PoseProviderComponent: {fileID: 0}
   m_TrackingType: 0
   m_UpdateType: 0
-  m_PositionAction:
-    m_Name: Position
-    m_Type: 0
-    m_ExpectedControlType: 
-    m_Id: 9d99f266-612c-461e-a415-ee4110959972
-    m_Processors: 
-    m_Interactions: 
-    m_SingletonActionBindings: []
-  m_RotationAction:
-    m_Name: Rotation
-    m_Type: 0
-    m_ExpectedControlType: 
-    m_Id: 02f9f2d6-1e37-4114-b291-9272a28a058a
-    m_Processors: 
-    m_Interactions: 
-    m_SingletonActionBindings: []
+  m_UseRelativeTransform: 0
 --- !u!114 &1185544812
 MonoBehaviour:
   m_ObjectHideFlags: 0
